@@ -1,4 +1,4 @@
-LetsHaveKiddos | Spacegray
+MAKROFREEK | Spacegray
 ===========================
 An old colorscheme with a new bubbly interface. I wanted something different. So I made something different.
 
